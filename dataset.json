@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the San Francisco-Oakland-Fremont Metro Area, CA, US",
+  "export_job_id": "a90ba131-b951-445e-b063-404272771973",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 145335,
+  "location_name": "San Francisco-Oakland-Fremont, CA",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-san-francisco-oakland-fremont-metro-area-ca-us-sample-145335",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/145335/beamstation_145335_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 4,
+  "sample_sha256": "e5967d4213b53681dc61c30e82eeda8cf91d5ddd74ad72784062c26ae83e0722",
+  "sample_size_bytes": 31126,
+  "total_records": 44,
+  "updated_at": "2026-04-08T07:13:30.509326+00:00"
+}
