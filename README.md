@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the San Francisco-Oakland-Fremont Metro Area, CA, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `145335` |
 | Location | San Francisco-Oakland-Fremont, CA |
 | Category | Restaurants |
-| Full dataset size | 44 records |
-| Free sample size | 4 records (9.09%) |
-| Last export | 2026-04-08T07:13:30.509326+00:00 |
+| Full dataset size | 29 records |
+| Free sample size | 2 records (6.9%) |
+| Last export | 2026-04-15T10:36:18.115303+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-san-francisco-oakland-fremont-metro-area-ca-us-sample-145335/releases/download/sample-latest/beamstation_145335_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
