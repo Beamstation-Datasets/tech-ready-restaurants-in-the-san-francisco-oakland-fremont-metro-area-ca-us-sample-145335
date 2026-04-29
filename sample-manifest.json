@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e90d54e6-446d-4b71-adb9-b4bdca7c4744",
+  "export_job_id": "e9ab43fe-78c4-4130-8d9b-3af28cc8f811",
   "id_short": 145335,
-  "published_at": "2026-04-22T19:17:07Z",
+  "published_at": "2026-04-29T19:57:22Z",
   "repo_name": "tech-ready-restaurants-in-the-san-francisco-oakland-fremont-metro-area-ca-us-sample-145335",
   "sample_asset_name": "beamstation_145335_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/145335/beamstation_145335_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "0cf150a23252dba23310752909c5811cb75f20d5900ebfdcd0a2faf3e13af9b5",
-  "sample_size_bytes": 19994,
-  "total_records": 16
+  "sample_records": 8,
+  "sample_sha256": "2425b3389571344e7a7b1d560f55d169952ce38427324d1cff7cc3e778e18ef5",
+  "sample_size_bytes": 46999,
+  "total_records": 81
 }
